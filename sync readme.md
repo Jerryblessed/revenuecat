@@ -1,6 +1,4 @@
-Of course. Here is a comprehensive README file tailored for technical documentation, describing the tech stack, architecture, and RevenueCat implementation for the `remindersync` app.
 
----
 
 # **remindersync - Technical Documentation**
 
@@ -226,4 +224,5 @@ The Flutter app communicates with the backend via the following key endpoints de
 5.  **Run the app:**
     ```sh
     flutter run
+
     ```
